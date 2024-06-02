@@ -9,6 +9,6 @@ tags:
   - tshirt
 ---
 
-![Image Example](/img/in-post/2024-06-02/header.jpg)
+![Image Example](/img/posts/2024-06-02-tshirt-semi.jpg)
 
 C'est un super t-shirt que j'ai eu gratos. Un peu rose cela dit ...
