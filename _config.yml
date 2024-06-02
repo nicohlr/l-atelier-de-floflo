@@ -98,10 +98,10 @@ kramdown:
 menus:
   - title: Accueil
     font: fab fa-fort-awesome
-    url: /
+    url: /l-atelier-de-floflo/
   - title: Posts
     font: fas fa-archive
-    url: /posts/
+    url: /l-atelier-de-floflo/posts/
 
 
 # Comment settings
