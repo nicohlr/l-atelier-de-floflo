@@ -3,8 +3,8 @@ title: L'Atelier de Floflo
 SEOTitle: L'Atelier de Floflo
 description: Retrouvez toutes mes créations couture sur ce blog !
 keyword: "Retrouvez toutes mes créations couture sur ce blog !"
-url: "https://jekyll-theme-gungnir.vercel.app"      # your host, for absolute URL
-baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://nicohlr.github.io" # the base hostname & protocol for your site
+baseurl: "/l-atelier-de-floflo" # the subpath of your site, e.g. /blog
 avatar: "img/header-avatar.jpeg"                    # the avatar showing on the homepage
 
 
@@ -98,10 +98,10 @@ kramdown:
 menus:
   - title: Accueil
     font: fab fa-fort-awesome
-    url: /l-atelier-de-floflo/
+    url: /
   - title: Posts
     font: fas fa-archive
-    url: /l-atelier-de-floflo/posts/
+    url: /posts/
 
 
 # Comment settings
