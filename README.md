@@ -1,1 +1,3 @@
-# l-atelier-de-floflo
+# L'Atelier de Floflo
+
+A blog sewing website.
