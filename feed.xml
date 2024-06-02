@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L&apos;Atelier de Floflo</title>
+    <description>Retrouvez toutes mes créations couture sur ce blog !</description>
+    <link>https://jekyll-theme-gungnir.vercel.app/</link>
+    <atom:link href="https://jekyll-theme-gungnir.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 02 Jun 2024 17:08:24 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Jun 2024 17:08:24 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Le t-shirt rose du semi de rouen !</title>
+        <subtitle>C&apos;est un très bon pyjama</subtitle>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/in-post/2024-06-02/header.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Un peu rose cela dit …&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://jekyll-theme-gungnir.vercel.app/2024/06/02/tshirt-semi-copy/</link>
+        <guid isPermaLink="true">https://jekyll-theme-gungnir.vercel.app/2024/06/02/tshirt-semi-copy/</guid>
+        
+        <category>t-shirt</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello Word</title>
+        <subtitle>Welcome to Jekyll Theme Gungnir</subtitle>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/in-post/2024-06-02/header.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Un peu rose cela dit …&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://jekyll-theme-gungnir.vercel.app/2024/06/01/tshirt-semi/</link>
+        <guid isPermaLink="true">https://jekyll-theme-gungnir.vercel.app/2024/06/01/tshirt-semi/</guid>
+        
+        <category>tshirt</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
