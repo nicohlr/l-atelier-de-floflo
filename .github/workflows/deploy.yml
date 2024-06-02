@@ -19,8 +19,10 @@ jobs:
           ruby-version: 3.1.13  # Specify the Ruby version you are using
           bundler-cache: true
 
-      - name: Install dependencies
+      - name: Install theme
         run: bundle config set path 'vendor/bundle'
+
+      - name: Install dependencies
         run: bundle install
 
       - name: Build the site
