@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Le t-shirt rose du semi de rouen !
-subtitle: C'est un très bon pyjama
+title: Hello Word
+subtitle: Welcome to Jekyll Theme Gungnir
 header-img: img/posts/2024-06-02-tshirt-semi.jpg
 header-style: text
 catalog: true
