@@ -16,10 +16,11 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1  # Specify the Ruby version you are using
+          ruby-version: 3.1.13  # Specify the Ruby version you are using
           bundler-cache: true
 
       - name: Install dependencies
+        run: bundle config set path 'vendor/bundle'
         run: bundle install
 
       - name: Build the site
