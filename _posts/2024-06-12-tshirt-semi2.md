@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Le t-shirt bleu du semi de rouen !
 subtitle: C'est un très bon pyjama
 header-img: img/posts/2024-06-06-tshirt-semi2.jpg
