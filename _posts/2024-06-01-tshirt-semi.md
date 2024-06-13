@@ -11,6 +11,6 @@ tags:
   - rose
 ---
 
-![Image Example](/img/posts/2024-06-02-tshirt-semi.jpg)
+![Image Example](/l-atelier-de-floflo/img/posts/2024-06-02-tshirt-semi.jpg)
 
 C'est un super t-shirt que j'ai eu gratos. Un peu rose cela dit ...

@@ -11,6 +11,6 @@ tags:
   - bleu
 ---
 
-![Image Example](/img/posts/2024-06-06-tshirt-semi2.jpg)
+![Image Example](/l-atelier-de-floflo/img/posts/2024-06-06-tshirt-semi2.jpg)
 
 C'est un super t-shirt que j'ai eu gratos. Moins rose que l'autre mais plus bleu ...
