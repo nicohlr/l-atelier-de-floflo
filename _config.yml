@@ -97,10 +97,10 @@ kramdown:
 # Navigation menu settings
 menus:
   - title: Accueil
-    font: fab fa-fort-awesome
+    font: fas fa-home
     url: /
   - title: Posts
-    font: fas fa-archive
+    font: fas fa-file-alt
     url: /posts/
 
 
@@ -120,7 +120,3 @@ analytics:
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-# Whether or not to enable Hitokoto (the bubble on homepage)
-hitokoto: true # default: false
