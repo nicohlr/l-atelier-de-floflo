@@ -1,3 +1,10 @@
 # L'Atelier de Floflo
 
-A blog sewing website.
+A sewing blog.
+
+Launch locally: 
+
+```sh
+$ bundle install
+$ bundle exec jekyll serve --watch
+```
