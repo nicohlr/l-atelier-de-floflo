@@ -84,7 +84,7 @@
           {% comment %} always create a h2 for keeping the margin {% endcomment %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% if page.hide-author != true %}
-          <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+          <span class="meta">Posté par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} le {{ page.date | date: "%-d/%-m/%Y" }}</span>
           {% endif %}
         </div>
       </div>
@@ -126,8 +126,8 @@
           {% comment %} always create a h2 for keeping the margin {% endcomment %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           <span class="meta">
-            Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
-            on {{ page.date | date: "%B %-d, %Y" }}
+            Posté par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}
+            le {{ page.date | date: "%-d/%-m/%Y" }}
           </span>
         </div>
       </div>

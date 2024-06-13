@@ -26,7 +26,7 @@ header-img:
           <img src="{{ _assets_baseurl }}/{{ post.header-img }}" class="cover">
       </a>
       <div class="else">
-        <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="post-meta">{{ post.date | date: "%-d/%-m/%Y" }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}">
           <h2 class="post-title">{{ post.title }}</h2>
           {% if post.subtitle %}
@@ -60,7 +60,7 @@ header-img:
         </div>
       </a>
       <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Posté par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} le {{ page.date | date: "%-d/%-m/%Y" }}
       </p>
     </div>
     <hr>
