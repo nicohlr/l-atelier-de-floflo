@@ -5,30 +5,55 @@
     <description>Retrouvez toutes mes créations couture sur ce blog !</description>
     <link>https://nicohlr.github.io/l-atelier-de-floflo/</link>
     <atom:link href="https://nicohlr.github.io/l-atelier-de-floflo/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 02 Jun 2024 17:50:55 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Jun 2024 17:50:55 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2024 18:56:22 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2024 18:56:22 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
-        <title>Le t-shirt rose du semi de rouen !</title>
+        <title>Le t-shirt vert du semi de boulogne !</title>
         <subtitle>C&apos;est un très bon pyjama</subtitle>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/posts/2024-06-02-tshirt-semi.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/l-atelier-de-floflo/img/posts/2024-06-12-tshirt-semi3.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Un peu rose cela dit …&lt;/p&gt;
-</description>
-        <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-        <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/02/tshirt-semi-copy/</link>
-        <guid isPermaLink="true">https://nicohlr.github.io/l-atelier-de-floflo/2024/06/02/tshirt-semi-copy/</guid>
+&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Moins rose que l’autre mais plus bleu …&lt;/p&gt;
+
+&lt;h1 i...</description>
+        <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi3/</link>
+        <guid isPermaLink="true">https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi3/</guid>
         
-        <category>t-shirt</category>
+        <category>tshirt</category>
+        
+        <category>boulogne</category>
+        
+        <category>vert</category>
         
         
       </item>
     
       <item>
-        <title>Hello Word</title>
-        <subtitle>Welcome to Jekyll Theme Gungnir</subtitle>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/posts/2024-06-02-tshirt-semi.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
+        <title>Le t-shirt bleu du semi de rouen !</title>
+        <subtitle>C&apos;est un très bon pyjama</subtitle>
+        <description>&lt;p&gt;&lt;img src=&quot;/l-atelier-de-floflo/img/posts/2024-06-06-tshirt-semi2.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Moins rose que l’autre mais plus bleu …&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+        <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi2/</link>
+        <guid isPermaLink="true">https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi2/</guid>
+        
+        <category>tshirt</category>
+        
+        <category>rouen</category>
+        
+        <category>bleu</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Le t-shirt rose du semi de rouen !</title>
+        <subtitle>C&apos;est un très bon pyjama</subtitle>
+        <description>&lt;p&gt;&lt;img src=&quot;/l-atelier-de-floflo/img/posts/2024-06-02-tshirt-semi.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Un peu rose cela dit …&lt;/p&gt;
 </description>
@@ -37,6 +62,10 @@
         <guid isPermaLink="true">https://nicohlr.github.io/l-atelier-de-floflo/2024/06/01/tshirt-semi/</guid>
         
         <category>tshirt</category>
+        
+        <category>rouen</category>
+        
+        <category>rose</category>
         
         
       </item>

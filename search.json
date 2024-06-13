@@ -1,17 +1,25 @@
 [
   
     {
-      "title"    : "Le t-shirt rose du semi de rouen !",
+      "title"    : "Le t-shirt vert du semi de boulogne !",
       "subtitle" : "C&#39;est un très bon pyjama",
-      "tags"     : "t-shirt",
-      "url"      : "/l-atelier-de-floflo/2024/06/02/tshirt-semi-copy/",
-      "date"     : "2024-06-02 00:00:00 +0000"
+      "tags"     : "tshirt, boulogne, vert",
+      "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi3/",
+      "date"     : "2024-06-12 00:00:00 +0000"
     } ,
   
     {
-      "title"    : "Hello Word",
-      "subtitle" : "Welcome to Jekyll Theme Gungnir",
-      "tags"     : "tshirt",
+      "title"    : "Le t-shirt bleu du semi de rouen !",
+      "subtitle" : "C&#39;est un très bon pyjama",
+      "tags"     : "tshirt, rouen, bleu",
+      "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi2/",
+      "date"     : "2024-06-12 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Le t-shirt rose du semi de rouen !",
+      "subtitle" : "C&#39;est un très bon pyjama",
+      "tags"     : "tshirt, rouen, rose",
       "url"      : "/l-atelier-de-floflo/2024/06/01/tshirt-semi/",
       "date"     : "2024-06-01 00:00:00 +0000"
     } 
