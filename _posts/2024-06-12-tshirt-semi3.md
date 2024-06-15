@@ -13,7 +13,7 @@ tags:
 
 ![Image Example](/l-atelier-de-floflo/img/posts/2024-06-12-tshirt-semi3.jpg)
 
-C'est un super t-shirt que j'ai eu gratos. Moins rose que l'autre mais plus bleu ...
+C'est un super t-shirt que j'ai eu gratos. Moins rose que l'autre mais plus vert ...
 
 
 # Ceci est un titre
