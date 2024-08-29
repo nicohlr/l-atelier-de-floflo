@@ -1,19 +1,16 @@
 ---
 layout: posts
-title: Le t-shirt vert du semi de boulogne !
-subtitle: C'est un très bon pyjama
+title: t-shirt vert
+subtitle: Ceci est un sous titre
 header-img: img/posts/2024-06-12-tshirt-semi3.jpg
 header-style: text
 catalog: true
 tags:
   - tshirt
-  - boulogne
   - vert
 ---
 
 ![Image Example](/l-atelier-de-floflo/img/posts/2024-06-12-tshirt-semi3.jpg)
-
-C'est un super t-shirt que j'ai eu gratos. Moins rose que l'autre mais plus vert ...
 
 
 # Ceci est un titre
