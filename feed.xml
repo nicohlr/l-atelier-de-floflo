@@ -5,15 +5,14 @@
     <description>Retrouvez toutes mes créations couture sur ce blog !</description>
     <link>https://nicohlr.github.io/l-atelier-de-floflo/</link>
     <atom:link href="https://nicohlr.github.io/l-atelier-de-floflo/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 15 Jun 2024 15:02:02 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Jun 2024 15:02:02 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2024 07:10:30 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2024 07:10:30 +0000</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
-        <title>Le t-shirt blanc trouvé sur internet !</title>
-        <subtitle>On ne sait pas si c&apos;est un bon pyjama</subtitle>
-        <description>&lt;p&gt;Celui la pour le coup j’en ai jamais vu la couleur …&lt;/p&gt;
-
+        <title>t-shirt blanc</title>
+        <subtitle>Ceci est un sous titre</subtitle>
+        <description>
 </description>
         <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
         <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi4/</link>
@@ -21,28 +20,26 @@
         
         <category>tshirt</category>
         
-        <category>pasboulognenirouen</category>
-        
         <category>blanc</category>
         
         
       </item>
     
       <item>
-        <title>Le t-shirt vert du semi de boulogne !</title>
-        <subtitle>C&apos;est un très bon pyjama</subtitle>
+        <title>t-shirt vert</title>
+        <subtitle>Ceci est un sous titre</subtitle>
         <description>&lt;p&gt;&lt;img src=&quot;/l-atelier-de-floflo/img/posts/2024-06-12-tshirt-semi3.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Moins rose que l’autre mais plus vert …&lt;/p&gt;
+&lt;h1 id=&quot;ceci-est-un-titre&quot;&gt;Ceci est un titre&lt;/h1&gt;
 
-&lt;h1 i...</description>
+&lt;p&gt;&lt;em&gt;blablabla&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ceci-est-u...</description>
         <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
         <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi3/</link>
         <guid isPermaLink="true">https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi3/</guid>
         
         <category>tshirt</category>
-        
-        <category>boulogne</category>
         
         <category>vert</category>
         
@@ -50,11 +47,9 @@
       </item>
     
       <item>
-        <title>Le t-shirt bleu du semi de rouen !</title>
-        <subtitle>C&apos;est un très bon pyjama</subtitle>
+        <title>t-shirt bleu</title>
+        <subtitle>Ceci est un sous titre</subtitle>
         <description>&lt;p&gt;&lt;img src=&quot;/l-atelier-de-floflo/img/posts/2024-06-06-tshirt-semi2.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Moins rose que l’autre mais plus bleu …&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
         <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/12/tshirt-semi2/</link>
@@ -62,27 +57,22 @@
         
         <category>tshirt</category>
         
-        <category>rouen</category>
-        
         <category>bleu</category>
         
         
       </item>
     
       <item>
-        <title>Le t-shirt rose du semi de rouen !</title>
-        <subtitle>C&apos;est un très bon pyjama</subtitle>
+        <title>t-shirt rose</title>
+        <subtitle>Ceci est un sous titre</subtitle>
         <description>&lt;p&gt;&lt;img src=&quot;/l-atelier-de-floflo/img/posts/2024-06-02-tshirt-semi.jpg&quot; alt=&quot;Image Example&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;C’est un super t-shirt que j’ai eu gratos. Un peu rose cela dit …&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
         <link>https://nicohlr.github.io/l-atelier-de-floflo/2024/06/01/tshirt-semi/</link>
         <guid isPermaLink="true">https://nicohlr.github.io/l-atelier-de-floflo/2024/06/01/tshirt-semi/</guid>
         
         <category>tshirt</category>
-        
-        <category>rouen</category>
         
         <category>rose</category>
         

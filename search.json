@@ -1,33 +1,33 @@
 [
   
     {
-      "title"    : "Le t-shirt blanc trouvé sur internet !",
-      "subtitle" : "On ne sait pas si c&#39;est un bon pyjama",
-      "tags"     : "tshirt, pasboulognenirouen, blanc",
+      "title"    : "t-shirt blanc",
+      "subtitle" : "Ceci est un sous titre",
+      "tags"     : "tshirt, blanc",
       "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi4/",
       "date"     : "2024-06-12 00:00:00 +0000"
     } ,
   
     {
-      "title"    : "Le t-shirt vert du semi de boulogne !",
-      "subtitle" : "C&#39;est un très bon pyjama",
-      "tags"     : "tshirt, boulogne, vert",
+      "title"    : "t-shirt vert",
+      "subtitle" : "Ceci est un sous titre",
+      "tags"     : "tshirt, vert",
       "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi3/",
       "date"     : "2024-06-12 00:00:00 +0000"
     } ,
   
     {
-      "title"    : "Le t-shirt bleu du semi de rouen !",
-      "subtitle" : "C&#39;est un très bon pyjama",
-      "tags"     : "tshirt, rouen, bleu",
+      "title"    : "t-shirt bleu",
+      "subtitle" : "Ceci est un sous titre",
+      "tags"     : "tshirt, bleu",
       "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi2/",
       "date"     : "2024-06-12 00:00:00 +0000"
     } ,
   
     {
-      "title"    : "Le t-shirt rose du semi de rouen !",
-      "subtitle" : "C&#39;est un très bon pyjama",
-      "tags"     : "tshirt, rouen, rose",
+      "title"    : "t-shirt rose",
+      "subtitle" : "Ceci est un sous titre",
+      "tags"     : "tshirt, rose",
       "url"      : "/l-atelier-de-floflo/2024/06/01/tshirt-semi/",
       "date"     : "2024-06-01 00:00:00 +0000"
     } 
