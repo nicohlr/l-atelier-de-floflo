@@ -1,35 +1,11 @@
 [
   
     {
-      "title"    : "t-shirt blanc",
-      "subtitle" : "Ceci est un sous titre",
-      "tags"     : "tshirt, blanc",
-      "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi4/",
+      "title"    : "Le calendrier de l&#39;Avent",
+      "subtitle" : "Des pochons à n&#39;en plus finir",
+      "tags"     : "noel, vert",
+      "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi3-copy/",
       "date"     : "2024-06-12 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "t-shirt vert",
-      "subtitle" : "Ceci est un sous titre",
-      "tags"     : "tshirt, vert",
-      "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi3/",
-      "date"     : "2024-06-12 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "t-shirt bleu",
-      "subtitle" : "Ceci est un sous titre",
-      "tags"     : "tshirt, bleu",
-      "url"      : "/l-atelier-de-floflo/2024/06/12/tshirt-semi2/",
-      "date"     : "2024-06-12 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "t-shirt rose",
-      "subtitle" : "Ceci est un sous titre",
-      "tags"     : "tshirt, rose",
-      "url"      : "/l-atelier-de-floflo/2024/06/01/tshirt-semi/",
-      "date"     : "2024-06-01 00:00:00 +0000"
     } 
   
 ]
